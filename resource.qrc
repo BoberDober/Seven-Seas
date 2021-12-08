@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/videoEdit/treeVideo">
+        <file>videoEdit/treeVideo/images/delete_icon.png</file>
+        <file>videoEdit/treeVideo/images/addVideo_icon.png</file>
+        <file>videoEdit/treeVideo/images/addPrefix_icon.png</file>
+    </qresource>
+    <qresource prefix="/player">
+        <file>videoEdit/player/img.jpg</file>
+    </qresource>
+    <qresource prefix="/sets/tableSets/labeling/tools"/>
+    <qresource prefix="/sets/tableSets/labeling/labelingPlayer/ControlViewer"/>
+    <qresource prefix="/sets/tableSets/labeling/labelingPlayer/ControlViewer/sets/tableSets/labeling/labels/images/remove.png"/>
+    <qresource prefix="/images">
+        <file>images/remove.png</file>
+        <file>images/dragObject.png</file>
+        <file>images/moveScene.png</file>
+        <file>images/next.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/prev.png</file>
+        <file>images/selectObject.png</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>qml/listLabels.qml</file>
+    </qresource>
+</RCC>
